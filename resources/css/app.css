@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+/* Main Style */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Satoshi', sans-serif;
+}
+
+/* Start Menu Hover Effect */
+.relative:hover .absolute {
+    opacity: 100;
+    visibility: visible;
+}
+/* End Menu Hover Effect */
+
+/* Start Center Search Input */
+.mx-4 {
+    margin-right: auto;
+    margin-left: auto;
+}
+/* End Center Search Input */

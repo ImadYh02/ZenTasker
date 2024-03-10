@@ -1,0 +1,30 @@
+===================== Project Brand Name =======================
+
+LifeSync
+OrganizeMe
+HabitHub
+LifeCraft
+ZenTasker
+LifeCanvas
+
+===================== Project Brand Color =======================
+
+Primary Color: Blue (#2ECC71)
+Secondary Color: Grey (#F4F5F7)
+Accent Color: Orange (#FF6B01)
+
+===================== Project Brand Section =======================
+
+Daily Task
+Journal
+Habit Tracker
+Notes
+Reference (for save an article)
+Reading List
+Movies List
+Budget Tracker
+Words
+Shopping List
+Quotes
+
+===============================================================

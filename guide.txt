@@ -1,0 +1,16 @@
+Bach te7al had l error message:
+    php : The term 'php' is not recognized as the name of a cmdlet, function, script file, or operable program
+
+Solution:
+    Right click on My Computer, select Properties
+    Select Advanced System Settings
+    In the System Properties window click the Environment Variables button.
+    Select System Variables -> PATH and click Edit.
+    Enter the folder where your PHP.exe is located.
+
+To Add TailwindCSS to project:
+    https://tailwindcss.com/docs/guides/laravel#vite
+
+The ONLY 8 Fonts UI Designers Need. Forget The Rest.
+    https://www.youtube.com/watch?v=mEAmAFgzQd4
+
