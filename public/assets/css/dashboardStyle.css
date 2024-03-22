@@ -1,17 +1,3 @@
-/* Start Main Style */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-body {
-    height: 100vh;
-    width: 100%;
-}
-/* End Main Style */
-
-
 /* Start Dashboard Cover */
 .cover {
     background: url("../pics/dash_cover.jpg") center/cover no-repeat scroll;
@@ -21,13 +7,63 @@ body {
 /* Start Main Background */
 .main-bg {
     background: hsla(233, 100%, 90%, 1);
-  
-    background: linear-gradient(90deg, hsla(233, 100%, 90%, 1) 0%, hsla(0, 0%, 89%, 1) 100%);
-    
-    background: -moz-linear-gradient(90deg, hsla(233, 100%, 90%, 1) 0%, hsla(0, 0%, 89%, 1) 100%);
-    
-    background: -webkit-linear-gradient(90deg, hsla(233, 100%, 90%, 1) 0%, hsla(0, 0%, 89%, 1) 100%);
-    
+
+    background: linear-gradient(
+        90deg,
+        hsla(233, 100%, 90%, 1) 0%,
+        hsla(0, 0%, 89%, 1) 100%
+    );
+
+    background: -moz-linear-gradient(
+        90deg,
+        hsla(233, 100%, 90%, 1) 0%,
+        hsla(0, 0%, 89%, 1) 100%
+    );
+
+    background: -webkit-linear-gradient(
+        90deg,
+        hsla(233, 100%, 90%, 1) 0%,
+        hsla(0, 0%, 89%, 1) 100%
+    );
+
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#CAD0FF", endColorstr="#E3E3E3", GradientType=1 );
 }
-/* End Main Background */  
+/* End Main Background */
+
+/* Start Background's Card */
+.card-1 {
+    background: url("../pics/dash_cards/card-1.jpeg") center/cover no-repeat scroll;
+}
+
+.card-2 {
+    background: url("../pics/dash_cards/card-2.jpeg") center/cover no-repeat scroll;
+}
+
+.card-3 {
+    background: url("../pics/dash_cards/card-3.jpeg") center/cover no-repeat scroll;
+}
+
+.card-4 {
+    background: url("../pics/dash_cards/card-4.jpeg") center/cover no-repeat scroll;
+}
+
+.card-5 {
+    background: url("../pics/dash_cards/card-5.jpeg") center/cover no-repeat scroll;
+}
+
+.card-6 {
+    background: url("../pics/dash_cards/card-6.jpeg") center/cover no-repeat scroll;
+}
+
+.card-7 {
+    background: url("../pics/dash_cards/card-7.jpeg") center/cover no-repeat scroll;
+}
+
+.card-8 {
+    background: url("../pics/dash_cards/card-8.jpeg") center/cover no-repeat scroll;
+}
+
+.card-9 {
+    background: url("../pics/dash_cards/card-9.jpeg") center/cover no-repeat scroll;
+}
+/* End Background's Card */
