@@ -175,40 +175,7 @@
                     <div class="pl-10 xl:pt-10">
                         <h1 class="text-3xl font-black">Hi, iMad 🙌</h1>
                     </div>
-
-                    <div
-                        class="w-full h-full p-10 flex justify-between flex-wrap"
-                    >
-                        <div
-                            class="w-full mb-7 xl:mb-0 xl:w-[31%] h-72 rounded-xl card-1"
-                        ></div>
-                        <div
-                            class="w-full mb-7 xl:mb-0 xl:w-[31%] h-72 rounded-xl card-2"
-                        ></div>
-                        <div
-                            class="w-full mb-7 xl:mb-0 xl:w-[31%] h-72 rounded-xl card-3"
-                        ></div>
-
-                        <div
-                            class="w-full mb-7 xl:mb-0 xl:w-[31%] h-72 rounded-xl card-4"
-                        ></div>
-                        <div
-                            class="w-full mb-7 xl:mb-0 xl:w-[31%] h-72 rounded-xl card-5"
-                        ></div>
-                        <div
-                            class="w-full mb-7 xl:mb-0 xl:w-[31%] h-72 rounded-xl card-6"
-                        ></div>
-
-                        <div
-                            class="w-full mb-7 xl:mb-0 xl:w-[31%] h-72 rounded-xl card-7"
-                        ></div>
-                        <div
-                            class="w-full mb-7 xl:mb-0 xl:w-[31%] h-72 rounded-xl card-8"
-                        ></div>
-                        <div
-                            class="w-full mb-7 xl:mb-0 xl:w-[31%] h-72 rounded-xl card-9"
-                        ></div>
-                    </div>
+                    @include('../include/dash-card')
                 </div>
                 <!-- End Cards Section -->
             </div>
