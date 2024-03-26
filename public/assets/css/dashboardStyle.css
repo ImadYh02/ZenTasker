@@ -67,3 +67,10 @@
     background: url("../pics/dash_cards/card-9.jpeg") center/cover no-repeat scroll;
 }
 /* End Background's Card */
+
+
+/* Start Journaling Cover */
+.journal-cover {
+    background: url("../pics/journal-cover.jpg") center/cover no-repeat scroll;
+}
+/* End Journaling Cover */

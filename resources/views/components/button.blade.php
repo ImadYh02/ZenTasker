@@ -58,7 +58,7 @@
     }
 </style>
 
-<button class="cta flex items-center mr-10">
+<button class="cta flex items-center mr-10" type="submit">
     <span>Hover me</span>
     <svg width="20px" height="10px" viewBox="0 0 13 10">
         <path d="M1,5 L11,5"></path>
